@@ -5,4 +5,3 @@
 
 My tool of choice for creating these planters is the free open source software OpenSCAD, which uses a C based programming language in order to generate designs, which can be rendered inside of the software. This particular piece of software is a great tool for creating objects mathematically. It also allows for designs to be saved as .scad files, which can be saved in a text format like any code file. Both the .scad and .stl file formats can be found for each of my designs for ease of 3D printing and potentially for editing.
 
-![planter](images/screenshot(30).png)
