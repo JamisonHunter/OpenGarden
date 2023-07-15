@@ -4,3 +4,5 @@
 ![planter](images/hex_planter.jpg)
 
 My tool of choice for creating these planters is the free open source software OpenSCAD, which uses a C based programming language in order to generate designs, which can be rendered inside of the software. 
+
+![planter](images/screenshot(30).png)
